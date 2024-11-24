@@ -1,6 +1,5 @@
 # MyFirstProject
-# JoJo's Bizarre Adventure Interactive Gallery
-
+#Character Display of the anime JoJo's Bizarre Adventure
 This project is a fun and interactive showcase of the main characters from **JoJo's Bizarre Adventure**, featuring an immersive experience with images, audio, and typewriter text effects.
 
 ## Features
